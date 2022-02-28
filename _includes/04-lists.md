@@ -1,12 +1,12 @@
-- TOOL
+- __TOOL__
   - Aenima
-    - Jimmy
+    - *Jimmy*
   - Lateralus
-    - Schism
+    - *Schism*
   - 10,000 Days
-    - Vicarious
-- King Crimson
+    - *Vicarious*
+- __King Crimson__
   - In the Court of the Crimson King
-    - Epitaph
+    - *Epitaph*
   - Discipline
-    - Thela Hun Ginjeet
+    - *Thela Hun Ginjeet*
