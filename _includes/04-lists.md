@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+- TOOL
+  - Aenima
+    - Jimmy
+  - Lateralus
+    - Schism
+  - 10,000 Days
+    - Vicarious
+- King Crimson
+  - In the Court of the Crimson King
+    - Epitaph
+  - Discipline
+    - Thela Hun Ginjeet
